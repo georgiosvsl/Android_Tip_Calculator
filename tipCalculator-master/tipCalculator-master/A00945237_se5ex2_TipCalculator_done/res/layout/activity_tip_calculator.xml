@@ -22,7 +22,7 @@
         android:layout_alignBaseline="@+id/billAmountLabel"
         android:layout_marginLeft="5dp"
         android:layout_toRightOf="@+id/billAmountLabel"
-        android:ems="8"
+        android:ems="9"
         android:inputType="numberDecimal"
         android:text="@string/bill_amount"
         android:textSize="20sp" >
